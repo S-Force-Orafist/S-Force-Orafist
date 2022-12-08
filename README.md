@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @S-Force-Orafist
+- 👀 I’m interested in Python, C# and web design
+- 🌱 I’m currently learning Python, C#
+- 💞️ I’m looking to collaborate on Entry level python projects
+- 📫 How to reach me: sforceorafist@gmail.com
